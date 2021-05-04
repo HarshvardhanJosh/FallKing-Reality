@@ -1,0 +1,116 @@
+header .left-menu,
+.right-menu {
+  display: none;
+}
+.banner h1 {
+  line-height: 80px;
+  padding: 0 20px;
+  text-align: center;
+  padding-bottom: 80px;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.banner .btn {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+/* Section1 */
+section.section1 .text-left {
+  float: none;
+  width: 100%;
+}
+section.section1 .text-right {
+  float: none;
+  width: 100%;
+}
+
+section.section1 h3 {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+section.section1 p {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+/* section2 */
+section.section2 img {
+  float: none;
+  width: 100%;
+  margin: 25px;
+}
+section.section2 .section2-inner .text-inner {
+  float: none;
+  width: 100%;
+  margin: 50px;
+}
+body
+  > main
+  > section:nth-child(4)
+  > div
+  > div
+  > div.text.aos-init.aos-animate
+  > div
+  > p {
+  text-align: left;
+}
+body
+  > main
+  > section
+  > div
+  > div
+  > div.text.aos-init.aos-animate
+  > div
+  > p
+  > a {
+  width: 150px;
+  margin-bottom: 30px;
+}
+
+/* Section3 */
+body > main > section.section3 > div > div > h2 {
+  position: relative;
+  top: -100px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 30px;
+}
+section.section3 .item {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+}
+/* Section4 */
+section.section4 h2 {
+  text-align: center;
+}
+section.section4 .section4-boxes {
+  display: block;
+  padding: 1rem;
+}
+section.section4 .section4-boxes .box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+section.section4 .section4-boxes .box img {
+  width: 100vw;
+}
+/* Footer */
+footer .footer-inner {
+  display: flex;
+  flex-direction: column;
+}
+footer .footer-inner .col h2 {
+  display: none;
+}
+
+footer .footer-inner .col ul {
+  padding: 20px;
+}
+.copyright p {
+  text-align: center;
+  padding: 30px;
+}
