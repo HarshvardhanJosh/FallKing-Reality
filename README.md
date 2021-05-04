@@ -2,11 +2,11 @@
 
 FallKing Reality, a sample website for AR/VR built with HTML5/CSS3 &amp; JavaScript, uses rolly.js for smooth parallax and scenes manager.
 
-<img src='./img/primage.JPG' alt='' width='800px'/>
+<img src='./images/primage.JPG' alt='' width='800px'/>
 
-<img src='./img/primage2.JPG' alt='' width='800px'/>
+<img src='./images/primage2.JPG' alt='' width='800px'/>
 
-<img src='./img/primage3.JPG' alt='' width='800px'/>
+<img src='./images/primage3.JPG' alt='' width='800px'/>
 
 # Useful Resources
 
