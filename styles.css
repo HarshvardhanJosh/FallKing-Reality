@@ -21,7 +21,6 @@ h5,
 h6 {
   font-family: 'Space Grotesk', sans-serif;
 }
-
 h1 {
   font-size: 70px;
 }
@@ -81,7 +80,6 @@ header {
   align-items: center;
   z-index: 999;
 }
-
 header ul {
   padding-left: 0;
 }
@@ -95,7 +93,6 @@ header ul li a {
   text-transform: uppercase;
   text-decoration: none;
 }
-
 .navtext {
   letter-spacing: 5px;
 }
@@ -108,12 +105,10 @@ header ul li a {
   display: flex;
   align-items: flex-end;
 }
-
 .banner .text {
   text-align: center;
   padding-bottom: 100px;
 }
-
 .banner h1 {
   line-height: 80px;
   font-weight: 200;
@@ -124,12 +119,10 @@ header ul li a {
   position: relative;
   padding: 90px 0;
 }
-
 .section1 h3 {
   text-transform: uppercase;
   line-height: 40px;
 }
-
 .section1 p {
   line-height: 32px;
 }
@@ -138,7 +131,6 @@ header ul li a {
   flex-wrap: wrap;
   justify-content: space-between;
 }
-
 .section1 .text {
   width: 47%;
 }
@@ -253,13 +245,11 @@ header ul li a {
   border: 1px solid #fff;
   opacity: 1;
 }
-
 .slick-prev::before {
   background: transparent url(./images/arrow-prev.svg) no-repeat;
   background-size: 14px;
   background-position: center;
 }
-
 /* Section4 */
 .section4 {
   padding: 100px 0;
