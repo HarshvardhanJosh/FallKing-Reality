@@ -10,11 +10,11 @@ FallKing Reality, a sample website for VR/AR Showcase summit built with HTML5/CS
 
 # Useful Resources
 
-1.rolly.js - https://github.com/mickaelchanrion/rolly
+1.[rolly.js](https://github.com/mickaelchanrion/rolly)
 
-2.Slick carousel - https://kenwheeler.github.io/slick/
+2.[Slick carousel](https://kenwheeler.github.io/slick/)
 
-3.Pexels - https://www.pexels.com/
+3.[Pexels](https://www.pexels.com/)
 
 # License & copyright
 
